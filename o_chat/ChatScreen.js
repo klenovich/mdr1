@@ -46,7 +46,6 @@ const ChatScreen = () => {
       </TouchableOpacity>
     </SafeAreaView>
   );
-};
-};
+}; 
 
 export default ChatScreen;
